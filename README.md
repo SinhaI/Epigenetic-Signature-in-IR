@@ -11,3 +11,6 @@ In this repository we have added the code used to generate the circos plot for t
 **To run this code DOWNLOAD CIRCOS, TUTORIALS AND TOOLS from http://circos.ca/software/download/circos/**
 
 To run Circos, you need Perl. 
+To run Circos, you'll need to invoke perl and pass the Circos script as an argument, along with any command-line parameters
+
+C:>perl C:\path\to\circos\bin\circos [any command-line parameters]
